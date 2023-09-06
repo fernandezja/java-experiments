@@ -14,7 +14,7 @@ public class ObjectStringTest {
         String stringConcat = "";
 
         for (int i = 0; i < 100; i++) {
-            stringConcat = stringConcat + "Universidad de la Cuenca del Plata";
+            stringConcat = stringConcat + "Starwars.com";
         }
 
         long finish = System.currentTimeMillis();
